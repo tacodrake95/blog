@@ -1,4 +1,4 @@
-baseURL = "https://blog.fraq.io/"
+baseurl = "https://blog.fraq.io/"
 languageCode = "en-us"
 title = "Random Access Memetics"
 theme = "hugo-classic"
