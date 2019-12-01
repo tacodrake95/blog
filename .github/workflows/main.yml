@@ -1,0 +1,15 @@
+name: push start
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Execute Ansible Playbook
+        uses: saubermacherag/ansible-playbook-docker-action@v1.1
+        with:
+          # Name of the playbook in your workspace.
+          playbookName: ${{ github.workspace }}/playBook.yml
