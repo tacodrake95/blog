@@ -12,4 +12,4 @@ jobs:
         uses: saubermacherag/ansible-playbook-docker-action@v1.1
         with:
           # Name of the playbook in your workspace.
-          playbookName: "/github/workspace/playBook.yml"
+          playbookName: 'playBook.yml'
