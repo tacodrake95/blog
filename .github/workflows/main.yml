@@ -10,8 +10,6 @@ jobs:
     steps:
       - name: Execute Ansible Playbook
         uses: saubermacherag/ansible-playbook-docker-action@v1.1
-          - run:|
-              ls
-        #with:
+        with:
           # Name of the playbook in your workspace.
-          #playbookName: /playBook.yml
+          playbookName: "playBook.yml"
