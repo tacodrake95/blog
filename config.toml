@@ -1,6 +1,6 @@
 baseURL = "https://blog.fraq.io/"
 languageCode = "en-us"
-title = "fraq"
+title = "Random Access Memetics"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -35,6 +35,6 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 
 [params]
-    description = "Where infrastructure goes to cry"
+    description = "A place to learn about my memes"
     footer = "Built with [Hugo](https://gohugo.io/)  using [Hugo Classic](https://github.com/goodroot/hugo-classic)"
     custom_css = ["css/theme-override.css"]

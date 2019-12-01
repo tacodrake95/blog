@@ -21,3 +21,4 @@ What distinguishes a long-form blog post from an essay? For me, structure, tone,
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
   - patio11's excellent article on salary negotiation. A must-read before any interview process.
   - His [twitter](https://twitter.com/patio11) is also worth a follow
+- [A collection of trivial things](https://blog.fraq.io/)
