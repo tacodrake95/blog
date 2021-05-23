@@ -1,6 +1,6 @@
 ---
 title: "'It's Tradition'"
-date: 2019-12-03T4:38:00-08:00
+date: 2021-5-23T11:10:00-08:00
 
 categories:
  - Politics
