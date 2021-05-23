@@ -1,3 +1,19 @@
+---
+title: "'It's Tradition'"
+date: 2019-12-03T4:38:00-08:00
+
+categories:
+ - Politics
+ - Apocalypse
+
+tags:
+ - societal collapse
+ - politics
+ - world problems
+ - society
+ - dodo
+
+---
 # "It's Tradition"
 
 ​	Since the dawn of human society, the models used to keep them stable have all had a tipping point of instability. The justification to keep modeling societies that way has been "the instability point is so far out that we won't reach it."
